@@ -24,15 +24,15 @@ Insights were derived from data analysis and visualization using pandas and seab
 
 ## KNN Regressor Model
 
-A KNN regressor model was created using scikit-learn. Grid search with cross-validation was employed to find the optimal value for 'k,' and 'k' was selected as 19 for the best performance.
+A KNN regressor model was created using scikit-learn. As the sqrt of our training dataset was 74.43, considered 73 as the k value.
 
 ## Model Evaluation
 
 The model was evaluated using the following metrics:
 
-- Mean Absolute Error: 4.4
-- Mean Squared Error: 2742.91
-- Root Mean Squared Error: 52.37
+- Mean absolute error - 8.34
+- Mean squared error - 4150.73
+- Root mean squared error - 64.43
 
 ## Tableau Dashboard
 
