@@ -38,6 +38,6 @@ The model was evaluated using the following metrics:
 
 A Tableau dashboard was created to provide visual insights into the Bangalore house price analysis.
 
-https://public.tableau.com/views/Bangalore_House_Price_Analysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+![Dashboard 1](https://github.com/MuskanKhandelia/Bangalore_House_Price_Prediction/assets/65664089/bb16d355-13ce-4309-b8eb-1b3006ebceac)
 
-![Bangalore_House_Price_Analysis](https://github.com/MuskanKhandelia/Bangalore_House_Price_Prediction/assets/65664089/e8e73c66-0d5c-4c5b-be80-8e560fb87abd)
+https://public.tableau.com/views/Bangalore_House_Price_Analysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
